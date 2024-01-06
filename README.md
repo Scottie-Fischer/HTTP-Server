@@ -1,2 +1,15 @@
-# HTTP-Server
-The goal of this project is to create a multi-threaded HTTP Server and client from scratch.
+#-----------------------------------------#
+#HTTP SERVER
+#Scott Fischer
+#May 18rd, 2020
+#----------------------------------------#
+Table of Contents:
+
+httpserver.c
+-This should be run in the background using &
+-Give it a port number as argument
+-Can also give thread count, and logfile name
+2.WRITEUP.pdf
+3.DESIGN.pdf
+4.README.md
+5.MAKEFILE
